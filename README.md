@@ -1,6 +1,6 @@
 # Grid Layout
 
-##Overview
+## Overview
 Practicing the basics of grid layout and a basic mobile first responsive layout page.  Added in media query for 700px min-width.
    
 ## Live Site
